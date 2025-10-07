@@ -1,4 +1,4 @@
-name: "Upload to S3"
+name: "Upload to S3 CA"
 description: "Uploads a file to AWS S3"
 inputs:
   file:
